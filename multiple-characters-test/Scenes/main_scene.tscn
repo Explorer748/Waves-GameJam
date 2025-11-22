@@ -1,0 +1,67 @@
+[gd_scene load_steps=6 format=3 uid="uid://07hna6oempxa"]
+
+[ext_resource type="PackedScene" uid="uid://eq5s3dgfbay2" path="res://Scenes/ground.tscn" id="1_6l7je"]
+[ext_resource type="Script" uid="uid://g5yd0vof2iwo" path="res://Code/main_scene.gd" id="1_x6ack"]
+[ext_resource type="PackedScene" uid="uid://bovpen3yuir0n" path="res://Scenes/Player 1.tscn" id="2_jv6wh"]
+[ext_resource type="PackedScene" uid="uid://buixlcerxcvvc" path="res://Scenes/Player 2.tscn" id="3_jv6wh"]
+[ext_resource type="PackedScene" uid="uid://dt3p45vem7gp2" path="res://Scenes/Player 3.tscn" id="5_iacmt"]
+
+[node name="Main Scene" type="Node2D"]
+script = ExtResource("1_x6ack")
+
+[node name="ground" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(62, 62)
+
+[node name="ground2" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(189, 62)
+
+[node name="ground3" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(316, 62)
+
+[node name="ground4" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(443, 62)
+
+[node name="ground5" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(570, 62)
+
+[node name="ground6" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(697, 62)
+
+[node name="ground7" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(824, 62)
+
+[node name="ground8" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(951, 62)
+
+[node name="ground9" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(1078, 62)
+
+[node name="ground10" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(1205, 62)
+
+[node name="ground11" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(1332, 62)
+
+[node name="ground12" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(1459, 62)
+
+[node name="ground13" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(1586, 62)
+
+[node name="ground14" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(1713, 62)
+
+[node name="ground15" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(1840, 62)
+
+[node name="ground16" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(1967, 62)
+
+[node name="Player 1" parent="." instance=ExtResource("2_jv6wh")]
+position = Vector2(227, -82)
+
+[node name="Player 2" parent="." instance=ExtResource("3_jv6wh")]
+position = Vector2(46, -106)
+
+[node name="Player 3" parent="." instance=ExtResource("5_iacmt")]
+position = Vector2(429, -49)
