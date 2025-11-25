@@ -54,8 +54,89 @@ position = Vector2(1713, 62)
 [node name="ground15" parent="." instance=ExtResource("1_6l7je")]
 position = Vector2(1840, 62)
 
+[node name="ground29" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(2855, 62)
+
+[node name="ground30" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(2982, 62)
+
+[node name="ground31" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(3109, 62)
+
+[node name="ground32" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(3236, 62)
+
+[node name="ground33" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(3363, 62)
+
+[node name="ground34" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(3490, 62)
+
+[node name="ground35" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(3617, 62)
+
+[node name="ground36" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(3744, 62)
+
+[node name="ground37" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(3871, 62)
+
+[node name="ground38" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(3998, 62)
+
+[node name="ground39" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(4125, 62)
+
+[node name="ground40" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(4252, 62)
+
+[node name="ground41" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(4379, 62)
+
+[node name="ground42" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(4506, 62)
+
+[node name="ground43" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(4633, 62)
+
+[node name="ground20" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(2094, 446)
+
+[node name="ground21" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(2221, 446)
+
+[node name="ground22" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(2348, 446)
+
+[node name="ground23" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(2475, 446)
+
+[node name="ground24" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(2602, 446)
+
 [node name="ground16" parent="." instance=ExtResource("1_6l7je")]
 position = Vector2(1967, 62)
+
+[node name="ground17" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(1967, 190)
+
+[node name="ground18" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(1967, 319)
+
+[node name="ground19" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(1967, 447)
+
+[node name="ground25" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(2729, 62)
+
+[node name="ground26" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(2729, 190)
+
+[node name="ground27" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(2729, 319)
+
+[node name="ground28" parent="." instance=ExtResource("1_6l7je")]
+position = Vector2(2729, 447)
 
 [node name="Player 1" parent="." instance=ExtResource("2_jv6wh")]
 position = Vector2(227, -82)
